@@ -1,6 +1,10 @@
 # README: Reproducible Scientific Computing and Data Analysis
 ## ETH Zurich | Research Data Management (RDM) Workshop Series
 
+![ Image from ETH Zurich Previos Seminar 2025 ](https://github.com/naman-dixit00/ETH-Zurich-Workshop-Course-/blob/main/Metadata/Eth%20Zurich.jpg)
+
+
+
 ### Objective
 The primary goal of this workshop is to teach researchers how to organize their computational work so that others (and their future selves) can replicate the exact same results using the same data, code, and software environment.
 
